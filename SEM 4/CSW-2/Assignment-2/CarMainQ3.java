@@ -2,13 +2,12 @@ class Car implements Comparable<Car> {
     private String model;
     private String color;
     private int speed;
-
     public Car(String model, String color, int speed) {
         this.model = model;
         this.color = color;
         this.speed = speed;
     }
-    
+
     public String getModel() {
         return model;
     }
