@@ -45,6 +45,7 @@ public class BookMainQ2 {
         System.out.println(book2);
 
         if (book1.equals(book2)) {
+
             System.out.println("Both books have the same price.");
         } else {
             System.out.println("The books have different prices.");

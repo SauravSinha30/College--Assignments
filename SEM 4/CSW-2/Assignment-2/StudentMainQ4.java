@@ -4,6 +4,7 @@ class Students implements Comparable<Students> {
     private String name;
     private String rollNumber;
     private int totalMark;
+
     public Students(String name, String rollNumber, int totalMark) {
         this.name = name;
         this.rollNumber = rollNumber;
