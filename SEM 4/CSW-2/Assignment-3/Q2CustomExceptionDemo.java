@@ -4,7 +4,6 @@ class CustomNullPointerException extends RuntimeException {
         super(message);
     }
 }
-
 public class Q2CustomExceptionDemo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
