@@ -19,7 +19,7 @@ public class Q2CustomExceptionDemo {
         } catch (CustomNullPointerException e) {
             System.out.println("Exception Caught: " + e.getMessage());
         } finally {
-            scanner.close();
+
         }
     }
 }

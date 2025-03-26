@@ -21,7 +21,6 @@ public class Q3_StringToIntegerConverter {
                 }
             }
             System.out.println("You entered the valid number: " + number);
-            scanner.close();
         }
 
 }

@@ -17,6 +17,6 @@ public class Q4_SquareRootCalculator {
             int num = scanner.nextInt();
             calculateSquareRoot(num);
 
-            scanner.close();
+
         }
 }
