@@ -10,6 +10,6 @@ public class Q10 {
         LocalDate end = LocalDate.parse(sc.nextLine());
         long days = ChronoUnit.DAYS.between(start,end);
         System.out.println("Days Between:"+days);
-        
+
     }
 }
